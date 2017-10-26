@@ -106,10 +106,14 @@ ul {
 	}
 }
 @media screen and (max-width: 600px) {
-	#left {
-		text-align: center;
+	body {
+		padding: 30px;
+		font-size: 14px;
 	}
-	ul, h1 {
-		text-align: center;
+	h1 {
+		font-size: 3em;
+	}
+	img {
+		display: none;
 	}
 	}
