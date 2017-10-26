@@ -112,8 +112,14 @@ ul {
 	}
 	h1 {
 		font-size: 3em;
+		padding: 15px;
 	}
 	img {
 		display: none;
+	}
+	#two-column {
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-bottom: 300px;
 	}
 	}
